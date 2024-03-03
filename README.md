@@ -20,6 +20,6 @@ I've crafted a functional and user-friendly Calculator using HTML, CSS, and Java
 - JavaScript for dynamic calculations and user interactivity.
 
 **Project Link:**
-[CalculatorApp](your-github-repository-link)
+[CalculatorApp]([your-github-repository-link](https://chandrajit19.github.io/Calculator/))
 
 Explore this project to see how I bring functionality and simplicity together in a practical application. I'm eager to discuss how my skills can contribute to your team's objectives.
